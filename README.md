@@ -8,5 +8,5 @@ ASP.NET CORE 3.1
 3. Document： https://adminlte.io/docs/3.0/
 
 ## images
-1. ![login](https://github.com/kuyu05/AdminLTE_Demo/tree/master/imgs/login.png)
-2. ![index](https://github.com/kuyu05/AdminLTE_Demo/tree/master/imgs/index.png)
+1. ![login](https://github.com/kuyu05/AdminLTE_Demo/blob/master/imgs/login.png?raw=true)
+2. ![index](https://github.com/kuyu05/AdminLTE_Demo/blob/master/imgs/index.png?raw=true)
