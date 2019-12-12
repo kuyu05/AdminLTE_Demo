@@ -6,3 +6,7 @@ ASP.NET CORE 3.1
 1. github：https://github.com/ColorlibHQ/AdminLTE
 2. Demo：https://adminlte.io/themes/v3/
 3. Document： https://adminlte.io/docs/3.0/
+
+## images
+![login](https://github.com/kuyu05/AdminLTE_Demo/tree/master/imgs/login.png)
+![index](https://github.com/kuyu05/AdminLTE_Demo/tree/master/imgs/index.png)
